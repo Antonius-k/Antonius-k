@@ -12,9 +12,12 @@
 - Unity
 
 ## Game Clone Projects :collision:
-- [x] [브롤스타즈(BrawlStars)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00213) at 메타버스 아카데미 1기 (22.07)
-- [x] [할로우나이트(Hollow Knight)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00375) at 메타버스 아카데미 1기 (22.08)
-- [x] [라이더스리퍼블릭(Riders Republic)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00535) at 메타버스 아카데미 1기 (22.09)
+- [브롤스타즈(BrawlStars)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00213) 메타버스 아카데미 1기 (22.07)
+- [할로우나이트(Hollow Knight)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00375) 메타버스 아카데미 1기 (22.08)
+- [라이더스리퍼블릭(Riders Republic)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00535) 메타버스 아카데미 1기 (22.09)
+
+## Projects 
+- [메타버스 여행 콘텐츠(GARI)] 메타버스 아카데미 1기 (22.10)
 
 ## Courses completed :clap:
 - [x] [메타버스 아카데미 1기 XR 과정](https://atic.ac/metaverse/index.do) by 과학기술정보통신부 (22.05.09 - 22.12.16)
