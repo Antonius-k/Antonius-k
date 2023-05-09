@@ -2,7 +2,7 @@
 
 ## Stats :muscle:
 [![My stats](https://github-readme-stats.vercel.app/api?username=Antonius-k&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonius-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonius-k&langs_count=10&layout=compact)]()
 
 ## Who am I :smiley:
 - Coffee roaster who enjoys game development
